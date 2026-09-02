@@ -1,0 +1,29 @@
+---
+import "../styles/global.css";
+import TinaIsland from "@tinacms/astro/TinaIsland.astro";
+import PageBody from "../components/islands/PageBody.astro";
+import { getHome } from "../lib/tina/data";
+import { islands } from "../lib/tina/islands";
+
+const home = await getHome();
+const data = home.data?.home;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>{data?.seo?.title ?? "Portfolio"}</title>
+	<meta name="description" content={data?.seo?.description ?? ""} />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@600&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<TinaIsland name="home" wrapper={islands.home.wrapper} params={{}} primary>
+  <PageBody data={data} />
+</TinaIsland>
+
+<script src="/script.js" is:inline></script>
+</body>
+</html>

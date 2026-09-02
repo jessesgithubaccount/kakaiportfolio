@@ -1,0 +1,224 @@
+{
+  "seo": {
+    "title": "John Misiko Kakai — Data Scientist & Geospatial ML Engineer",
+    "description": "John Misiko Kakai — Data Scientist & Geospatial ML Engineer."
+  },
+  "nav": {
+    "logoInitials": "JK",
+    "name": "John Kakai"
+  },
+  "hero": {
+    "eyebrow": "Nairobi County, Kenya",
+    "headlineLine1": "Geospatial",
+    "headlineLine2": "Machine Learning",
+    "headlineLine3": "grounded in geography",
+    "lede": "I build data-driven models to understand our world using machine learning and geospatial data. My work sits at the intersection of machine learning, data science, and geospatial analytics. I'm interested in developing tools that help solve real-world problems such as climate change, urban development, and environmental monitoring.",
+    "openNote": "Open to opportunities — Ireland +4 more · On-site · Hybrid · Remote",
+    "badgeWorkText": "Open to work",
+    "badgeProjectsText": "View my projects",
+    "ctaPrimaryText": "Get in touch",
+    "ctaSecondaryText": "See skills",
+    "robotImage": "/assets/img01.png"
+  },
+  "about": {
+    "paragraph": "I build data-driven models to understand our world using machine learning and geospatial data. My work sits at the intersection of machine learning, data science, and geospatial analytics. I'm interested in developing tools that help solve real-world problems such as climate change, urban development, and environmental monitoring.",
+    "topSkillsLabel": "Top skills",
+    "topSkillsText": "Google Earth Engine · Geographic Information Systems (GIS) · ArcGIS Pro · Python · Remote Sensing",
+    "pillRole": "Data Scientist",
+    "pillLocation": "Nairobi County, Kenya",
+    "pillConnections": "500+ connections"
+  },
+  "experience": [
+    {
+      "logo": "/assets/img02.png",
+      "title": "Graduate Research Assistant — AI & Digital Twin for Urban Mobility",
+      "org": "Carnegie Mellon University · Contract · Pittsburgh, PA · On-site",
+      "dates": "Jun 2025 — Apr 2026",
+      "description": "Contributing to an AI-powered Digital Twin for urban mobility in Sub-Saharan Africa, leveraging over 12 million trip records from Kigali, Rwanda, to model and simulate transit patterns.",
+      "tags": ["Data Science", "Machine Learning"]
+    },
+    {
+      "logo": "/assets/img03.png",
+      "title": "Machine Learning Intern",
+      "org": "Spatialise · Contract · Netherlands · Remote",
+      "dates": "Feb 2025 — May 2025",
+      "description": "Preprocessed and analyzed satellite and sensor data for deep learning models focused on soil health and land restoration.",
+      "tags": ["Remote Sensing", "Deep Learning"]
+    },
+    {
+      "logo": "/assets/img04.png",
+      "title": "Graduate Research Assistant — Machine Learning",
+      "org": "Carnegie Mellon University · Contract · On-site",
+      "dates": "Sep 2024 — Mar 2025",
+      "description": "Designed and optimized ML/DL models for geospatial applications, environmental analytics, image classification and verification, object detection, and computer vision tasks.",
+      "tags": ["Geospatial Information Systems", "Data Science"]
+    },
+    {
+      "logo": "/assets/img05.png",
+      "title": "Geospatial Data Engineer (Planning and Design)",
+      "org": "Pavicon Kenya Limited · Contract · Nairobi County, Kenya",
+      "dates": "Apr 2022 — May 2024",
+      "description": "Delivered geospatial planning and design support across infrastructure projects, combining land surveying, GIS, and engineering design workflows.",
+      "tags": ["Land Surveying", "Engineering"]
+    },
+    {
+      "logo": "",
+      "title": "Geographic Information Systems Intern",
+      "org": "National Environment Management Authority · Nairobi, Kenya",
+      "dates": "Aug 2019 — Nov 2019",
+      "description": "Supported environmental monitoring work using Google Earth Engine for geospatial data analysis.",
+      "tags": ["Google Earth Engine"]
+    }
+  ],
+  "education": [
+    {
+      "logo": "/assets/img06.png",
+      "title": "Master of Science in Information Technology (MSIT)",
+      "institution": "Carnegie Mellon University",
+      "dates": "Aug 2023 – Apr 2026",
+      "detail": "Major: Data Science and Machine Learning · Shell Scripting, Deep Reinforcement Learning"
+    },
+    {
+      "logo": "/assets/img07.png",
+      "title": "Bachelor's Degree, Geospatial Engineering",
+      "institution": "University of Nairobi",
+      "dates": "2014 – 2020",
+      "detail": "GPA 3.8 / 4.0 · ArcGIS Pro, Geographic Information Systems (GIS)"
+    }
+  ],
+  "skills": [
+    "Google Earth Engine",
+    "Geographic Information Systems (GIS)",
+    "ArcGIS Pro",
+    "Python",
+    "Remote Sensing",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow / Keras",
+    "Natural Language Processing",
+    "Large Language Models",
+    "PySpark",
+    "Power BI"
+  ],
+  "certifications": [
+    {
+      "logo": "/assets/img08.png",
+      "name": "Master of Science in Information Technology",
+      "meta": "Carnegie Mellon University · Issued May 2026"
+    },
+    {
+      "logo": "/assets/img09.png",
+      "name": "A Hands-On Introduction to Hugging Face for Developers",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img10.png",
+      "name": "Introduction to Artificial Intelligence",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img11.png",
+      "name": "Ethics in the Age of Generative AI",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img12.png",
+      "name": "Learning Microsoft 365 Copilot and Business Chat",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img13.png",
+      "name": "Streamlining Your Work with Microsoft Copilot",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img14.png",
+      "name": "What Is Generative AI?",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img15.png",
+      "name": "Data Engineering Foundations",
+      "meta": "LinkedIn · Issued Sep 2024"
+    },
+    {
+      "logo": "/assets/img16.png",
+      "name": "Getting Started with Power BI",
+      "meta": "LinkedIn · Issued Aug 2024"
+    },
+    {
+      "logo": "",
+      "name": "Fiber Optics Designer (FOD)",
+      "meta": "Fiber Optics Association · Issued Jan 2022"
+    },
+    {
+      "logo": "",
+      "name": "Graduate Member, Institution of Surveyors of Kenya",
+      "meta": "Institution of Surveyors of Kenya"
+    }
+  ],
+  "projects": [
+    {
+      "period": "Jan 2025 — Jan 2025",
+      "title": "Frame-Level Speech Recognition",
+      "affilLogo": "/assets/img17.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Worked with MFCC data consisting of 28 features at each time step/frame. My deep learning model was able to recognize the phoneme that occurred in each frame with 86.2% validation accuracy on Kaggle. Also developed a custom torch library (mytorch) from scratch for this project.",
+      "tags": ["Deep Learning", "PyTorch"]
+    },
+    {
+      "period": "Jan 2025 — Jan 2025",
+      "title": "Inferring Customer Locations Using Synthetic Call Detail Records",
+      "affilLogo": "/assets/img18.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Used big data frameworks like PySpark to infer customer call locations from call detail records, as part of a Mobile Big Data Analytics class project with Togo as the case study. Combined Python, pandas, and geopandas with PySpark for parallel processing.",
+      "tags": ["PySpark", "Big Data Analytics"]
+    },
+    {
+      "period": "Oct 2024 — Oct 2024",
+      "title": "Customer Segmentation and Churn Prediction",
+      "affilLogo": "/assets/img19.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Applied machine learning to two business challenges: grouping customers by purchasing patterns and demographics using K-means clustering, and predicting customer churn with Random Forest and Logistic Regression, surfacing insights for targeted marketing and retention.",
+      "tags": ["Python", "Applied Machine Learning"]
+    },
+    {
+      "period": "Oct 2024 — Oct 2024",
+      "title": "Data Classification Using Large Language Models",
+      "affilLogo": "/assets/img20.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Built a solution to classify large volumes of unstructured text into predefined categories by fine-tuning pre-trained LLMs such as GPT-3 and BERT. Used Hugging Face's Transformers and PyTorch, applying tokenization and attention mechanisms to boost accuracy.",
+      "tags": ["LLMs", "NLP"]
+    },
+    {
+      "period": "Oct 2024 — Oct 2024",
+      "title": "Web Scraping and Sentiment Analysis",
+      "affilLogo": "/assets/img21.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Integrated web scraping and sentiment analysis using Object-Oriented Programming principles to extract, process, and interpret data from web sources, aiming for reusable, modular, and scalable code for data collection.",
+      "tags": ["NLP", "Web Scraping"]
+    },
+    {
+      "period": "Sep 2024 — Sep 2024",
+      "title": "Land Use Land Cover Change Study Using Deep Learning",
+      "affilLogo": "/assets/img22.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Used deep learning to classify Land Use Land Cover (LULC) for environmental monitoring and land management, building and training models with TensorFlow, Keras, and PyTorch to accurately classify land cover types from remote sensing data.",
+      "tags": ["Deep Learning", "CNNs"]
+    },
+    {
+      "period": "",
+      "title": "Predictive Analytics",
+      "affilLogo": "/assets/img23.png",
+      "affilText": "Associated with Carnegie Mellon University",
+      "description": "Explored predictive modeling on classic datasets — Titanic survival data and Wine Quality — applying applied machine learning techniques to uncover patterns and evaluate model performance.",
+      "tags": ["Applied Machine Learning", "Analytical Skills"]
+    }
+  ],
+  "contact": {
+    "linkedinUrl": "https://www.linkedin.com/in/your-profile",
+    "email": "your.email@example.com",
+    "footerName": "John Misiko Kakai",
+    "footerNote": "Built with a little glass and a lot of geodata."
+  }
+}

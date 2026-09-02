@@ -1,0 +1,21 @@
+{
+  "name": "john-misiko-kakai-portfolio",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tinacms dev -c \"astro dev\"",
+    "start": "tinacms dev -c \"astro dev\"",
+    "build": "tinacms build && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.2.9",
+    "@astrojs/node": "^11.1.4",
+    "@tinacms/astro": "^0.6.1",
+    "tinacms": "^3.12.1"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.6.1"
+  }
+}
