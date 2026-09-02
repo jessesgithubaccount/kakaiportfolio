@@ -2,12 +2,12 @@ import { defineConfig } from 'astro/config';
 
 import tina from '@tinacms/astro/integration';
 import { tinaAdminDevRedirect } from '@tinacms/astro/vite';
-import node from '@astrojs/node';
+import netlify from '@astrojs/netlify';
 
 export default defineConfig({
   site: 'https://example.com',
   output: 'server',
-  adapter: node({ mode: 'standalone' }),
+  adapter: netlify(),
   integrations: [tina()],
   vite: {
     plugins: [tinaAdminDevRedirect()],
