@@ -1,0 +1,228 @@
+{
+  "seo": {
+    "title": "John Misiko Kakai — Data Scientist & Machine Learning Engineer",
+    "description": "John Misiko Kakai — Data Scientist & Machine Learning Engineer."
+  },
+  "nav": {
+    "logoInitials": "JK",
+    "name": "John Kakai"
+  },
+  "hero": {
+    "eyebrow": "Nairobi County, Kenya",
+    "headlineLine1": "Data Scientist",
+    "headlineLine2": "& ML Engineer",
+    "headlineLine3": "with a geospatial edge",
+    "lede": "I build machine learning and AI systems that turn complex data into decisions — from LLM-powered agents and predictive models to production ML pipelines. My academic background in geospatial engineering gives me an added edge on problems involving location and environmental data, but my core focus is applied data science and machine learning engineering end to end.",
+    "openNote": "Open to opportunities — Ireland +4 more · On-site · Hybrid · Remote",
+    "badgeWorkText": "Open to work",
+    "badgeProjectsText": "View my projects",
+    "ctaPrimaryText": "Get in touch",
+    "ctaSecondaryText": "See skills",
+    "robotImage": "/assets/img01.png"
+  },
+  "about": {
+    "paragraph": "I'm a data scientist and machine learning engineer focused on turning complex data into decisions — from LLMs and RAG systems to predictive models, deep learning, and production ML pipelines. My academic background in geospatial engineering adds a spatial lens to my work, but my core focus is applied machine learning and data science across domains.",
+    "topSkillsLabel": "Top skills",
+    "topSkillsText": "Python · Machine Learning · Large Language Models (LLMs) · Deep Learning · Geospatial Analysis",
+    "pillRole": "Data Scientist & ML Engineer",
+    "pillLocation": "Nairobi County, Kenya",
+    "pillConnections": "500+ connections"
+  },
+  "experience": [
+    {
+      "logo": "",
+      "title": "Data Analyst Specialist",
+      "org": "United Nations Population Fund (UNFPA) · Nairobi, Kenya",
+      "dates": "Sep 2026 — Present",
+      "description": "Conduct multi-country statistical analysis generating FGM risk and prevalence estimates from DHIS2 and MICS survey data, and build data pipelines integrating programmatic, geospatial, and health information data for the Joint Programme on the Elimination of Female Genital Mutilation.",
+      "tags": [
+        "Data Science",
+        "Public Health Analytics"
+      ]
+    },
+    {
+      "logo": "",
+      "title": "Humanitarian Data Science Intern",
+      "org": "UN Office for the Coordination of Humanitarian Affairs (OCHA) · Geneva, Switzerland",
+      "dates": "Jun 2026 — Aug 2026",
+      "description": "Supported the HPC Country Module for partner reporting and humanitarian planning, and applied data analytics and visualization to humanitarian needs assessments, response planning, and coordination dashboards.",
+      "tags": [
+        "Data Science",
+        "Humanitarian Analytics"
+      ]
+    },
+    {
+      "logo": "",
+      "title": "Data Scientist",
+      "org": "Bite Data · Remote · USA",
+      "dates": "Jan 2026 — Jun 2026",
+      "description": "Designed AWS data pipelines and Spark ETL workflows transforming trade and compliance data into analytics-ready products, and built LLM-powered AI agents combining RAG and structured data tools for customs and trade intelligence.",
+      "tags": [
+        "LLMs",
+        "Data Engineering"
+      ]
+    },
+    {
+      "logo": "/assets/img02.png",
+      "title": "Graduate Research Assistant — AI & Digital Twin for Urban Mobility",
+      "org": "Carnegie Mellon University · Contract · Pittsburgh, PA · On-site",
+      "dates": "Jun 2025 — Apr 2026",
+      "description": "Contributing to an AI-powered Digital Twin for urban mobility in Sub-Saharan Africa, leveraging over 12 million trip records from Kigali, Rwanda, to model and simulate transit patterns.",
+      "tags": [
+        "Data Science",
+        "Machine Learning"
+      ]
+    },
+    {
+      "logo": "/assets/img03.png",
+      "title": "Machine Learning Intern",
+      "org": "Spatialise · Contract · Netherlands · Remote",
+      "dates": "Feb 2025 — May 2025",
+      "description": "Preprocessed and analyzed satellite and sensor data for deep learning models focused on soil health and land restoration.",
+      "tags": [
+        "Remote Sensing",
+        "Deep Learning"
+      ]
+    },
+    {
+      "logo": "/assets/img04.png",
+      "title": "Graduate Research Assistant — Machine Learning",
+      "org": "Carnegie Mellon University · Contract · On-site",
+      "dates": "Sep 2024 — Mar 2025",
+      "description": "Designed and optimized ML/DL models for geospatial applications, environmental analytics, image classification and verification, object detection, and computer vision tasks.",
+      "tags": [
+        "Geospatial Information Systems",
+        "Data Science"
+      ]
+    },
+    {
+      "logo": "/assets/img05.png",
+      "title": "Geospatial Data Engineer (Planning and Design)",
+      "org": "Pavicon Kenya Limited · Contract · Nairobi County, Kenya",
+      "dates": "Apr 2022 — May 2024",
+      "description": "Delivered geospatial planning and design support across infrastructure projects, combining land surveying, GIS, and engineering design workflows.",
+      "tags": [
+        "Land Surveying",
+        "Engineering"
+      ]
+    },
+    {
+      "logo": "",
+      "title": "Geographic Information Systems Intern",
+      "org": "National Environment Management Authority · Nairobi, Kenya",
+      "dates": "Aug 2019 — Nov 2019",
+      "description": "Supported environmental monitoring work using Google Earth Engine for geospatial data analysis.",
+      "tags": [
+        "Google Earth Engine"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "logo": "/assets/img06.png",
+      "title": "Master of Science in Information Technology (MSIT)",
+      "institution": "Carnegie Mellon University",
+      "dates": "Aug 2023 – Apr 2026",
+      "detail": "Major: Data Science and Machine Learning · Shell Scripting, Deep Reinforcement Learning"
+    },
+    {
+      "logo": "/assets/img07.png",
+      "title": "Bachelor's Degree, Geospatial Engineering",
+      "institution": "University of Nairobi",
+      "dates": "2014 – 2020",
+      "detail": "GPA 3.8 / 4.0 · ArcGIS Pro, Geographic Information Systems (GIS)"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow / Keras",
+    "Natural Language Processing",
+    "Large Language Models",
+    "PySpark",
+    "Power BI",
+    "Google Earth Engine",
+    "Geographic Information Systems (GIS)",
+    "ArcGIS Pro",
+    "Remote Sensing"
+  ],
+  "certifications": [
+    {
+      "logo": "/assets/img08.png",
+      "name": "Master of Science in Information Technology",
+      "meta": "Carnegie Mellon University · Issued May 2026"
+    },
+    {
+      "logo": "/assets/img09.png",
+      "name": "A Hands-On Introduction to Hugging Face for Developers",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img10.png",
+      "name": "Introduction to Artificial Intelligence",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img11.png",
+      "name": "Ethics in the Age of Generative AI",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img12.png",
+      "name": "Learning Microsoft 365 Copilot and Business Chat",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img13.png",
+      "name": "Streamlining Your Work with Microsoft Copilot",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img14.png",
+      "name": "What Is Generative AI?",
+      "meta": "LinkedIn · Issued Apr 2025"
+    },
+    {
+      "logo": "/assets/img15.png",
+      "name": "Data Engineering Foundations",
+      "meta": "LinkedIn · Issued Sep 2024"
+    },
+    {
+      "logo": "/assets/img16.png",
+      "name": "Getting Started with Power BI",
+      "meta": "LinkedIn · Issued Aug 2024"
+    },
+    {
+      "logo": "",
+      "name": "Fiber Optics Designer (FOD)",
+      "meta": "Fiber Optics Association · Issued Jan 2022"
+    },
+    {
+      "logo": "",
+      "name": "Graduate Member, Institution of Surveyors of Kenya",
+      "meta": "Institution of Surveyors of Kenya"
+    },
+    {
+      "logo": "",
+      "name": "Mastercard Foundation Scholar",
+      "meta": "Carnegie Mellon University"
+    },
+    {
+      "logo": "",
+      "name": "Azure AI and ML Platform Experience",
+      "meta": "Azure ML Studio · Azure AI Foundry"
+    }
+  ],
+  "cv": {
+    "pdfUrl": "/assets/John_Misiko_Kakai_CV.pdf",
+    "docxUrl": "/assets/John_Misiko_Kakai_CV.docx"
+  },
+  "contact": {
+    "linkedinUrl": "https://www.linkedin.com/in/your-profile",
+    "githubUrl": "https://github.com/Jkakai001",
+    "email": "mjohnkakai@gmail.com",
+    "footerName": "John Misiko Kakai",
+    "footerNote": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "john-misiko-kakai-portfolio",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tinacms dev -c \"astro dev\"",
+    "start": "tinacms dev -c \"astro dev\"",
+    "build": "tinacms build && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/netlify": "^8.1.2",
+    "@tinacms/astro": "^0.6.1",
+    "astro": "^7.2.9",
+    "tinacms": "^3.12.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@tinacms/cli": "^2.6.1",
+    "netlify-cli": "^27.5.0",
+    "typescript": "^6.0.3"
+  },
+  "allowScripts": {
+    "esbuild": true,
+    "sharp": true,
+    "better-sqlite3": true,
+    "core-js": true,
+    "netlify-cli@27.5.0": true
+  }
+}
