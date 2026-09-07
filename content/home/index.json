@@ -41,9 +41,9 @@
       ]
     },
     {
-      "logo": "",
+      "logo": "/assets/ocha.png",
       "title": "Humanitarian Data Science Intern",
-      "org": "UN Office for the Coordination of Humanitarian Affairs (OCHA) · Geneva, Switzerland",
+      "org": "UN Office for the Coordination of Humanitarian Affairs (OCHA) · Remote | Geneva, Switzerland",
       "dates": "Jun 2026 — Aug 2026",
       "description": "Supported the HPC Country Module for partner reporting and humanitarian planning, and applied data analytics and visualization to humanitarian needs assessments, response planning, and coordination dashboards.",
       "tags": [
