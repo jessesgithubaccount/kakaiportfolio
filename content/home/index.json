@@ -8,16 +8,16 @@
     "name": "John Kakai"
   },
   "hero": {
-    "eyebrow": "Nairobi County, Kenya",
+    "eyebrow": "Nairobi, Kenya",
     "headlineLine1": "Data Scientist",
     "headlineLine2": "& ML Engineer",
-    "headlineLine3": "with a geospatial edge",
-    "lede": "I build machine learning and AI systems that turn complex data into decisions — from LLM-powered agents and predictive models to production ML pipelines. My academic background in geospatial engineering gives me an added edge on problems involving location and environmental data, but my core focus is applied data science and machine learning engineering end to end.",
-    "openNote": "Open to opportunities — Ireland +4 more · On-site · Hybrid · Remote",
+    "headlineLine3": "Open to Work",
+    "lede": "I build machine learning and AI systems that turn complex data into decisions, from LLM-powered agents and predictive models to production ML pipelines. My academic background in geospatial engineering gives me an added edge on problems involving location and environmental data, but my core focus is applied data science and machine learning engineering end to end.",
+    "openNote": "Open to opportunities · On-site · Hybrid · Remote",
     "badgeWorkText": "Open to work",
     "badgeProjectsText": "View my projects",
     "ctaPrimaryText": "Get in touch",
-    "ctaSecondaryText": "See skills",
+    "ctaSecondaryText": "See Skills",
     "robotImage": "/assets/img01.png"
   },
   "about": {
